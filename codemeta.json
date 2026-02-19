@@ -4,12 +4,12 @@
     "license": "https://spdx.org/licenses/MIT",
     "datePublished": "2026-02-19",
     "name": "lowfreq-dm-radio-code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "This repository contains the notebooks and shared modules used to reproduce the figures in the paper \"Low-frequency radio telescopes sensitivity to light dark matter\".",
     "applicationCategory": "Astroparticle physics",
     "funding": "UNDARK - Unravelling the Dark Universe from the Canary Islands Observatories",
     "readme": "https://github.com/rzatini/lowfreq-dm-radio-code/blob/main/README.md",
-    "softwareVersion": "1.0.0",
+    "softwareVersion": "1.0.1",
     "funder": {
         "@type": "Organization",
         "name": "European Union's Horizon programme for research and innovation"
